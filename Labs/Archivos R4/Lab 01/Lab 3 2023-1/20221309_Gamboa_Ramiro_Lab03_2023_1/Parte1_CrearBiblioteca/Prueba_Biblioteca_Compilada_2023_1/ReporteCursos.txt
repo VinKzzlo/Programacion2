@@ -1,0 +1,8 @@
+CODIGO              NOMBRE                        CREDITOS
+INF263              Algoritmia                3.75
+PROFESOR       INGA_FLORES_CESAR_ADOLFO [35030611]
+Alumnos matriculados:
+Semestre       Codigo
+  20231        8320
+  Numero de alumnos:                1
+  Total ingresado:               0.00
